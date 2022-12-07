@@ -12,6 +12,7 @@
   },
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only ./src/index.ts",
-    "srp": "ts-node-dev --respawn --transpile-only ./src/principios/srp/index.ts"
+    "srp": "ts-node-dev --respawn --transpile-only ./src/principios/srp/index.ts",
+    "ocp": "ts-node-dev --respawn --transpile-only ./src/principios/ocp/index.ts"
   }
 }
