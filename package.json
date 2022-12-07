@@ -13,6 +13,8 @@
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only ./src/index.ts",
     "srp": "ts-node-dev --respawn --transpile-only ./src/principios/srp/index.ts",
-    "ocp": "ts-node-dev --respawn --transpile-only ./src/principios/ocp/index.ts"
+    "ocp": "ts-node-dev --respawn --transpile-only ./src/principios/ocp/index.ts",
+    "lsp": "ts-node-dev --respawn --transpile-only ./src/principios/lsp/index.ts"
+
   }
 }
