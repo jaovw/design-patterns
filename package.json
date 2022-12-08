@@ -15,7 +15,8 @@
     "srp": "ts-node-dev --respawn --transpile-only ./src/principios/srp/index.ts",
     "ocp": "ts-node-dev --respawn --transpile-only ./src/principios/ocp/index.ts",
     "lsp": "ts-node-dev --respawn --transpile-only ./src/principios/lsp/index.ts",
-    "isp": "ts-node-dev --respawn --transpile-only ./src/principios/isp/index.ts"
+    "isp": "ts-node-dev --respawn --transpile-only ./src/principios/isp/index.ts",
+    "dip": "ts-node-dev --respawn --transpile-only ./src/principios/dip/index.ts"
 
   }
 }
