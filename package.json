@@ -19,7 +19,8 @@
     "dip": "ts-node-dev --respawn --transpile-only ./src/principios/dip/index.ts",
     "factory": "ts-node-dev --respawn --transpile-only ./src/criacional/factoryMethod/index.ts",
     "abstract": "ts-node-dev --respawn --transpile-only ./src/criacional/abstractFactory/index.ts",
-    "builder": "ts-node-dev --respawn --transpile-only ./src/criacional/builder/index.ts"
+    "builder": "ts-node-dev --respawn --transpile-only ./src/criacional/builder/index.ts",
+    "adapter": "ts-node-dev --respawn --transpile-only ./src/estrutural/adapter/index.ts"
 
   }
 }
