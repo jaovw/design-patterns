@@ -18,7 +18,8 @@
     "isp": "ts-node-dev --respawn --transpile-only ./src/principios/isp/index.ts",
     "dip": "ts-node-dev --respawn --transpile-only ./src/principios/dip/index.ts",
     "factory": "ts-node-dev --respawn --transpile-only ./src/criacional/factoryMethod/index.ts",
-    "abstract": "ts-node-dev --respawn --transpile-only ./src/criacional/abstractFactory/index.ts"
+    "abstract": "ts-node-dev --respawn --transpile-only ./src/criacional/abstractFactory/index.ts",
+    "builder": "ts-node-dev --respawn --transpile-only ./src/criacional/builder/index.ts"
 
   }
 }
